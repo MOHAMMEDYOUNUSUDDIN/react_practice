@@ -1,4 +1,4 @@
-⚛️ React.js Learning Journey 
+⚛️ React.js Learning Journey . 
 
 Welcome to my React.js Learning Journey repository! 🚀
 
